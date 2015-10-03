@@ -13,13 +13,6 @@
 
 .nav_right{
 	position:fixed;
-	margin:0;
-	padding:0;
 	right:0%;
 	top:0%;
-	list-style-type:none;
-}
-
-li{
-	display:inline;
 }
