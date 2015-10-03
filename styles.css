@@ -1,0 +1,18 @@
+.logo{
+    position:fixed;
+    left: 30%;
+    right:50%;
+    top:15%;
+}
+
+.search_form{
+    position: relative;
+    left: 50%;
+ 
+}
+
+.nav_right{
+	position:fixed;
+	right:0%;
+	top:0%;
+}
