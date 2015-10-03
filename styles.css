@@ -11,8 +11,21 @@
  
 }
 
-.nav_right{
+.header{
 	position:fixed;
 	right:0%;
 	top:0%;
 }
+
+.footer_right{
+	position:fixed;
+	right:0%;
+	bottom:0%;
+}
+
+.footer_left{
+	position:fixed;
+	left:0%;
+	bottom:0%;
+}
+
